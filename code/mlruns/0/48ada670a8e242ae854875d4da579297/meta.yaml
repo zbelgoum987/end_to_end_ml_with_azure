@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zakariabelgoum/Documents/end_to_end_ml_with_azure/code/mlruns/0/48ada670a8e242ae854875d4da579297/artifacts
+end_time: 1698778745234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48ada670a8e242ae854875d4da579297
+run_name: ambitious-eel-4
+run_uuid: 48ada670a8e242ae854875d4da579297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698778745014
+status: 3
+tags: []
+user_id: zakariabelgoum
